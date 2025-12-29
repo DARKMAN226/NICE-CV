@@ -107,3 +107,5 @@ Rendez-vous sur [http://localhost:3000](http://localhost:3000) !
 ## 👤 Auteur
 
 Conçu et développé avec ❤️ par **NICE-DEV**.
+
+Une partie du projet a ete realiser par FaizDev
